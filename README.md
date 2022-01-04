@@ -5,10 +5,9 @@ attempt at a program that tells user whether or not their input is a word in the
 - [Install](#install)
 - [Usage](#usage)
 ## Background
-This is why this application exists.
+This program exists because it was a project that showed whether I was qualified for a out of school program
 ## Install
-These are the steps to setup your local environment to run this
-application.
+go to this website ---> https://www.python.org/
 ## Usage
-These are the steps to use the application or interact with it.
+Type a word into the program where the running code appears.
 ### Any optional sections
