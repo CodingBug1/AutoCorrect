@@ -20,7 +20,7 @@ def load_words():
 
 def suggest(text, all_words):
 
-  text = input(':> ')
+  text = input('')
 
 #   # YOUR CODE HERE. This currently doesn't suggest a correction, just checks if the input is already a word. You'll want to change that 
 
@@ -36,7 +36,8 @@ def main():
   all_words = load_words()
   print('Type some text, or type \"quit\" to stop')
   while True:
-      text = input(':> ')
+      user_word = input('Enter word here --> ')
+      text = user_word
 
       """
       start of my code
